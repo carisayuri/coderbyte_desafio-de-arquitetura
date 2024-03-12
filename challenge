@@ -1,1 +1,2 @@
-//Create a file
+//Caso haja limitação de ingressos por pessoa, poderia liberar mais pessoas por vez para fazer o procedimento de compra
+//Com isso fazer pessoasComprando = quantidadeDeIngressos / quantidadeMaximaDeIngressosPorPessoa
